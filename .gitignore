@@ -1,2 +1,8 @@
 /.DS_Store
 /.ipynb_checkpoints
+
+# output files
+output/
+
+# cache files
+*/__pycache__/
