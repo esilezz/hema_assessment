@@ -15,7 +15,9 @@ The solution has been implemented using `spark` and `docker`, as explained in th
 
 ## How to run
 
-To run the script, you need to have Docker installed on your machine.
+Download or clone the repo on your local machine from GitHub.
+
+Additionally, to run the script, you need to have Docker installed on your machine.
 
 Open a new command line shell in the directory `hema_assessment`, and run the following commands:
 
