@@ -26,6 +26,6 @@ docker build . -t hema-assessment
 docker run -v "<path/for/output/files>:/usr/app/src/output" hema-assessment
 ```
 
-Please make sure to replace `<path/for/output/files>` with an actual path where you would like to save the output files (e.g. `/Users/<username>/Desktop/hema_assessment/output` on Mac or `C:\Users\<username>\Desktop\hema_assessment\output`).
+Please make sure to replace `<path/for/output/files>` with an actual path where you would like to save the output files (e.g. `/Users/<username>/Desktop/hema_assessment/output` on Mac or `C:\Users\<username>\Desktop\hema_assessment\output` on Windows).
 
 Once the execution within the container is completed, you will be able to check the ouput in the location you chose for mounting the docker volume.
